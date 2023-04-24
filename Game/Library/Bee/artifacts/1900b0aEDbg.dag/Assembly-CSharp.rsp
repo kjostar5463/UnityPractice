@@ -350,6 +350,7 @@
 "Assets/Animator Controller/Script/AnimatorManager.cs"
 "Assets/Instantiate & Destroy/Script/Create.cs"
 "Assets/Instantiate & Destroy/Script/Delete.cs"
+"Assets/NavMesh Agent/Script/Controller.cs"
 "Assets/Script/A.cs"
 "Assets/Script/B.cs"
 "Assets/Script/Control_Introduce.cs"
