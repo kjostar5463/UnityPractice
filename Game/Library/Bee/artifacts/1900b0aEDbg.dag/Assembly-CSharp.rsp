@@ -352,6 +352,8 @@
 "Assets/Instantiate & Destroy/Script/Create.cs"
 "Assets/Instantiate & Destroy/Script/Delete.cs"
 "Assets/Light/Script/Patrol.cs"
+"Assets/Mouse Function/Script/Mouse.cs"
+"Assets/Mouse Function/Script/Zoom.cs"
 "Assets/NavMesh Agent/Script/Controller.cs"
 "Assets/Script/A.cs"
 "Assets/Script/B.cs"

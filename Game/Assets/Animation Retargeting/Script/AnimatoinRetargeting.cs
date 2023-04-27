@@ -43,15 +43,5 @@ public class AnimatoinRetargeting : MonoBehaviour
             animator[i].cullingMode = (AnimatorCullingMode)index;
         }
     }
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
