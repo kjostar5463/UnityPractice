@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Mouse Function/Scene/Mouse Function Example.unity
+- path: Assets/Rotation/Scene/Rotation Example.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
