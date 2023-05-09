@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Animation Layer/Scene/Animation Layer Example.unity
+- path: Assets/NavMesh Obstacle/Scene/NavMesh Obstacle Example.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

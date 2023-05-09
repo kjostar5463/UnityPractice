@@ -356,7 +356,7 @@
 "Assets/Light/Script/Patrol.cs"
 "Assets/Mouse Function/Script/Mouse.cs"
 "Assets/Mouse Function/Script/Zoom.cs"
-"Assets/NavMesh Agent/Script/Controller.cs"
+"Assets/NavMesh Obstacle/Script/Arrival.cs"
 "Assets/Physics/Script/BilliardBall.cs"
 "Assets/Physics/Script/PhysicsManager.cs"
 "Assets/Rotation/Script/Chase.cs"
