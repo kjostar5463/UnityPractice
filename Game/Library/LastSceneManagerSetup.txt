@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Cinemachine Camera/Scene/Cinemachine Camera Example.unity
+- path: Assets/Rotation/Scene/Rotation Example.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
