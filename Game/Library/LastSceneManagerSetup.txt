@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Rotation/Scene/Rotation Example.unity
+- path: Assets/Samples/Cinemachine/2.8.9/Cinemachine Example Scenes/Scenes/3rdPersonWithAimMode/3rdPersonWithAimMode.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
